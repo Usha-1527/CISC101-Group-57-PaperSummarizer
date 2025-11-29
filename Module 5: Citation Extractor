@@ -1,0 +1,9 @@
+Purpose: To Identify and extract references or citations from the paper.
+
+Functionality:
+
+Collects all citations mentioned in the text.
+
+Presents them in a structured list at the end in MLA format
+
+Ensures no fabricated or hallucinated citations are added.
