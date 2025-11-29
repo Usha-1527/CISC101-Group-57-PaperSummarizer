@@ -1,0 +1,8 @@
+Flag missing/empty sections.
+
+Flag sections <50 words.
+
+Apply hallucination mitigation.
+
+Handle long papers with chunking strategies (PS2 context window mitigation).
+
